@@ -1,0 +1,30 @@
+{
+  "name": "3-SysinWalGen",
+  "version": "0.0.1",
+  "description": "EthWal Gen",
+  "author": "Sysindators <tomiewilliams11@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node wallet-generate.js"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.0",
+    "fs": "^0.0.1-security",
+    "web3": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sysindators/3-SysinWalGen.git"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "generate",
+    "wallet",
+    "eip",
+    "Ethereum",
+    "eth"
+  ],
+  "homepage": "https://www.youtube.com/channel/UCY-HrzohIIDXRwTyyK13sQQ"
+}
